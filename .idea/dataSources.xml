@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="laravels@localhost" uuid="389ac68a-279f-462b-ac6e-8f079ed3dc6b">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/laravels</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="laravels@localhost [2]" uuid="a4de3de3-62b9-441d-add1-ab9fd07432e2">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/laravels</jdbc-url>
+    </data-source>
+  </component>
+</project>
