@@ -13,7 +13,7 @@ class RestTestController extends Controller
      */
     public function index()
     {
-        //
+        return view('welcome');
     }
 
     /**
@@ -45,7 +45,7 @@ class RestTestController extends Controller
      */
     public function show($id)
     {
-        //
+        dd($id);
     }
 
     /**
@@ -56,7 +56,7 @@ class RestTestController extends Controller
      */
     public function edit($id)
     {
-        //
+        dd($id);
     }
 
     /**
