@@ -90,3 +90,6 @@ https://oofloo.com/uninstall-mysql-ubuntu/
 
 
 https://si-dev.com/ru/blog/homestead-setup
+
+
+https://dev.to/lvtdeveloper/installing-virtual-environment-with-laravel-homestead-tutorial-4p32
