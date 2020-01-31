@@ -93,3 +93,6 @@ https://si-dev.com/ru/blog/homestead-setup
 
 
 https://dev.to/lvtdeveloper/installing-virtual-environment-with-laravel-homestead-tutorial-4p32
+
+
+https://garywoodfine.com/how-to-install-laravel-on-ubuntu/
