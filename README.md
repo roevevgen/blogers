@@ -87,3 +87,6 @@ https://overcoder.net/q/23446/%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D
 https://www.8host.com/blog/ustanovka-laravel-nginx-i-mysql-s-pomoshhyu-docker-compose/
 
 https://oofloo.com/uninstall-mysql-ubuntu/
+
+
+https://si-dev.com/ru/blog/homestead-setup
