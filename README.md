@@ -96,3 +96,5 @@ https://dev.to/lvtdeveloper/installing-virtual-environment-with-laravel-homestea
 
 
 https://garywoodfine.com/how-to-install-laravel-on-ubuntu/
+
+https://www.pascallandau.com/blog/phpstorm-with-vagrant-using-laravel-homestead-on-windows-10/
