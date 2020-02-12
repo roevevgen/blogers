@@ -102,3 +102,5 @@ https://www.pascallandau.com/blog/phpstorm-with-vagrant-using-laravel-homestead-
 https://ipcalc.co/blog/sajt-vizitka-na-laravel/
 
 https://prowebber.ru/internet/i-scripts/20059-josh-schablon-dlya-laravel-adminka-sayt-crud.html
+
+https://github.com/believer-ufa/prettyforms-laravel-app
