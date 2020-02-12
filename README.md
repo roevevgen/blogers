@@ -100,3 +100,5 @@ https://garywoodfine.com/how-to-install-laravel-on-ubuntu/
 https://www.pascallandau.com/blog/phpstorm-with-vagrant-using-laravel-homestead-on-windows-10/
 
 https://ipcalc.co/blog/sajt-vizitka-na-laravel/
+
+https://prowebber.ru/internet/i-scripts/20059-josh-schablon-dlya-laravel-adminka-sayt-crud.html
