@@ -106,3 +106,5 @@ https://prowebber.ru/internet/i-scripts/20059-josh-schablon-dlya-laravel-adminka
 https://github.com/believer-ufa/prettyforms-laravel-app
 
 https://si-dev.com/ru/blog?page=2
+
+https://www.larashout.com/category/laravel
