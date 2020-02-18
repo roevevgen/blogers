@@ -110,3 +110,5 @@ https://si-dev.com/ru/blog?page=2
 https://www.larashout.com/category/laravel
 
 https://www.larashout.com/laravel-e-commerce-application-development-initial-project-setup
+
+http://cccp-blog.com/laravel
