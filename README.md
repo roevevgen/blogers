@@ -114,3 +114,5 @@ https://www.larashout.com/laravel-e-commerce-application-development-initial-pro
 http://cccp-blog.com/laravel
 
 https://habr.com/ru/post/213933/
+
+https://habr.com/ru/company/otus/blog/484738/
