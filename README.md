@@ -112,3 +112,5 @@ https://www.larashout.com/category/laravel
 https://www.larashout.com/laravel-e-commerce-application-development-initial-project-setup
 
 http://cccp-blog.com/laravel
+
+https://habr.com/ru/post/213933/
