@@ -118,3 +118,5 @@ https://habr.com/ru/post/213933/
 https://habr.com/ru/company/otus/blog/484738/
 
 https://github.com/goranferbisek/laravel6-from-scratch
+
+https://www.larashout.com/share-data-in-partial-views-using-laravel-view-composer
