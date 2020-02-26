@@ -120,3 +120,5 @@ https://habr.com/ru/company/otus/blog/484738/
 https://github.com/goranferbisek/laravel6-from-scratch
 
 https://www.larashout.com/share-data-in-partial-views-using-laravel-view-composer
+
+https://auth0.com/blog/build-a-laravel-6-app-with-authentication/
