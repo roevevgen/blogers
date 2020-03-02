@@ -124,3 +124,5 @@ https://www.larashout.com/share-data-in-partial-views-using-laravel-view-compose
 https://auth0.com/blog/build-a-laravel-6-app-with-authentication/
 
 https://prowebber.ru/internet/i-scripts/24681-laravel-ecommerce-v16-universalnyy-skript-dlya-sayta-elektronnoy-kommercii.html
+
+https://github.com/jguyomard/docker-laravel
