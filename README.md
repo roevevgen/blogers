@@ -132,3 +132,5 @@ https://habr.com/ru/post/439346/
 https://laradock.io/getting-started/
 
 https://stevencotterill.com/articles/creating-a-laravel-crud-blog
+
+https://www.itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html
