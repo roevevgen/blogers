@@ -127,6 +127,8 @@ https://prowebber.ru/internet/i-scripts/24681-laravel-ecommerce-v16-universalnyy
 
 https://github.com/jguyomard/docker-laravel
 
+https://github.com/savanihd/laravel-6-crud
+
 https://habr.com/ru/post/439346/
 
 https://laradock.io/getting-started/
@@ -134,3 +136,5 @@ https://laradock.io/getting-started/
 https://stevencotterill.com/articles/creating-a-laravel-crud-blog
 
 https://www.itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html
+
+https://github.com/savanihd/laravel-6-crud
