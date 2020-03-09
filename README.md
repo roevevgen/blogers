@@ -138,3 +138,5 @@ https://stevencotterill.com/articles/creating-a-laravel-crud-blog
 https://www.itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html
 
 https://github.com/savanihd/laravel-6-crud
+
+https://itrendbuzz.com/install-laravel-framework-on-ubuntu/
