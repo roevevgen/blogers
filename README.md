@@ -142,3 +142,5 @@ https://github.com/savanihd/laravel-6-crud
 https://itrendbuzz.com/install-laravel-framework-on-ubuntu/
 
 https://losst.ru/ustanovka-lamp-ubuntu-18-04
+
+https://habr.com/ru/post/491532/
